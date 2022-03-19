@@ -1,0 +1,10 @@
+.countries-container{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-gap: 15px;
+}
+.countries-container img{
+    width: 250px;
+    height: 155px;
+    
+}
